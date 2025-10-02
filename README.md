@@ -1,4 +1,4 @@
-# EasyCompras
+# ListCalc
 
 ## Descrição
 
