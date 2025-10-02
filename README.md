@@ -2,7 +2,7 @@
 
 ## Descrição
 
-EasyCompras é uma aplicação Android desenvolvida em Kotlin utilizando Jetpack Compose para gerenciamento de listas de compras com cálculo automático de valores. A aplicação permite aos usuários adicionar, editar e remover produtos, calculando automaticamente o valor total da compra.
+ListCalc é uma aplicação Android desenvolvida em Kotlin utilizando Jetpack Compose para gerenciamento de listas de compras com cálculo automático de valores. A aplicação permite aos usuários adicionar, editar e remover produtos, calculando automaticamente o valor total da compra.
 
 ## Funcionalidades
 
@@ -13,6 +13,15 @@ EasyCompras é uma aplicação Android desenvolvida em Kotlin utilizando Jetpack
 - **Cálculo Automático**: Cálculo automático do valor total da compra
 - **Persistência de Dados**: Armazenamento local usando SharedPreferences
 - **Interface Moderna**: UI desenvolvida com Jetpack Compose e tema dark premium
+
+## Demo
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/72a914a5-2913-4d20-ab83-53dae21d2b89" alt="Imagem 1" width="30%">
+  <img src="https://github.com/user-attachments/assets/5c564a9b-68ef-4fd5-aa6c-1dc4d45dcfa8" alt="Imagem 2" width="30%">
+  <img src="https://github.com/user-attachments/assets/0c38b794-fe6a-4a94-a5e2-60564b6f4288" alt="Imagem 3" width="30%">
+</p>
+
 
 ## Tecnologias Utilizadas
 
@@ -100,17 +109,6 @@ git clone <url-do-repositorio>
 - **Cards**: #16213E (Azul escuro)
 - **Surface**: #0F3460 (Azul médio)
 
-## Testes
-
-O projeto inclui:
-- Testes unitários em `src/test/`
-- Testes instrumentados em `src/androidTest/`
-
-Para executar os testes:
-```bash
-./gradlew test
-./gradlew connectedAndroidTest
-```
 
 ## Autor
 
